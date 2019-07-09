@@ -10,6 +10,6 @@ In this app, users will be able to answer questions, see which questions they ha
 
 1. git clone https://github.com/webbdev/would-you-rather-app.git
 2. cd would-you-rather-app
-3. npm install or yarn install
-4. npm start or yarn install
+3. npm install
+4. npm start
 5. navigate to http://localhost:3000
