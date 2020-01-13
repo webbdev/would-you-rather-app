@@ -6,6 +6,8 @@ This web app lets a user play the “Would You Rather?” game. The game goes li
 
 In this app, users will be able to answer questions, see which questions they haven’t answered, see how other people have voted, post questions, and see the ranking of users on the leader board.
 
+https://wouldyourather-game.netlify.com/
+
 ### How to run
 
 1. git clone https://github.com/webbdev/would-you-rather-app.git
